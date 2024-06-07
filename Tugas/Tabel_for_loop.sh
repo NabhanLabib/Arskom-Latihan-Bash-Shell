@@ -1,5 +1,5 @@
 #!/bin/bash
-echo -e "     - TABEL PERKALIAN 5 - "
+echo "     - TABEL PERKALIAN 5 - "
 echo -e " ____________________________ \n "
 
 for ((i=1; i<=10; i++))
